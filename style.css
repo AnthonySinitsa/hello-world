@@ -1,0 +1,38 @@
+body {
+  background-color: #cbe4de;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  text-decoration: none;
+}
+
+header {
+  background-color: #0e8388;
+  /* width: 10000px; */
+}
+
+h1 {
+  background-color: #0e8388;
+}
+
+img {
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+}
+
+.link1:hover {
+  background-color: rgb(96, 170, 204);
+}
+
+.link2:hover {
+  background-color: rgb(96, 170, 204);
+}
+
+footer {
+  color: rgb(189, 184, 184);
+  background-color: #222222;
+}
