@@ -11,6 +11,7 @@ function inputUser() {
   while (userName === "") {
     userName = prompt("please enter valid name: ");
   }
+
   if (userName == "") {
     userName = prompt("Actually put in your name. ");
   } else if ((userName == "John") | (userName == "john")) {
